@@ -1,0 +1,12 @@
+.bot-army {
+  overflow-x: scroll;
+  min-height: 300px;
+  max-width: 100%;
+  background-color: rgb(2, 158, 2);
+}
+
+.ui.grid>.row.bot-army-row {
+  flex-wrap: wrap;
+  min-height: 100%;
+ 
+}
